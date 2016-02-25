@@ -1,0 +1,3411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"cata",
+				"catalogueStyle"
+			],
+			[
+				"compo",
+				"componentWillMount	Life Cycle Method"
+			],
+			[
+				"current",
+				"currentDay"
+			],
+			[
+				"dai",
+				"daily"
+			],
+			[
+				"dail",
+				"dailyMeals"
+			],
+			[
+				"MealDay",
+				"MealDayEmpty"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"Inter",
+				"IntercomButton"
+			],
+			[
+				"componentDi",
+				"componentDidUpdate	Life Cycle Method"
+			],
+			[
+				"c",
+				"componentDidUpdate	Life Cycle Method"
+			],
+			[
+				"com",
+				"componentDidMount	Life Cycle Method"
+			],
+			[
+				"ima",
+				"imageSrc"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ma",
+				"material-icons"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"classNam",
+				"classNameAdd"
+			],
+			[
+				"ad",
+				"additionalClass"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"meal",
+				"MealCard-container-padding"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ca",
+				"calculateRem"
+			],
+			[
+				"bla",
+				"black-87"
+			],
+			[
+				"firs",
+				"firstDayFixed"
+			],
+			[
+				"Affi",
+				"AffixedDate"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"componen",
+				"components"
+			],
+			[
+				"navb",
+				"navbar-font-color"
+			],
+			[
+				"nav",
+				"navbar-height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"image",
+				"imageSrc"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-body"
+			],
+			[
+				"js-",
+				"js-loginHidden"
+			],
+			[
+				"ce",
+				"center-block"
+			],
+			[
+				"im",
+				"imageFocusCenter"
+			],
+			[
+				"log",
+				"loginGoogle"
+			],
+			[
+				"goo",
+				"GoogleLogin"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"re",
+				"renderGoogleLoginButton"
+			],
+			[
+				"js",
+				"js-loginHidden"
+			],
+			[
+				"selectedRe",
+				"selectedRegencyId"
+			],
+			[
+				"use",
+				"userDistrict"
+			],
+			[
+				"inpu",
+				"input-field"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"ace",
+				"accessToken"
+			],
+			[
+				"logi",
+				"loginFacebook"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"button",
+				"button-full-small"
+			],
+			[
+				"social",
+				"social-register"
+			],
+			[
+				"ac",
+				"accessTokenGoogle"
+			],
+			[
+				"response",
+				"responseGoogle"
+			],
+			[
+				"Google",
+				"GoogleLogin"
+			],
+			[
+				"faceb",
+				"facebook-blue"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"comp",
+				"componentDidMount"
+			],
+			[
+				"respon",
+				"responseGoogle"
+			],
+			[
+				"super",
+				"superagent"
+			],
+			[
+				"trac",
+				"trackOrderSummary"
+			],
+			[
+				"tra",
+				"trackPlansName"
+			],
+			[
+				"tabKi",
+				"tabListKitchenClick"
+			],
+			[
+				"Mea",
+				"MealPlan"
+			],
+			[
+				"blac",
+				"black-54"
+			],
+			[
+				"no-o",
+				"no-padding-bottom"
+			],
+			[
+				"se",
+				"segmentAnalytics"
+			],
+			[
+				"black-",
+				"black-54"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"no-paddin",
+				"no-padding-bottom"
+			],
+			[
+				"slick",
+				"slick-dots"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"black",
+				"black-54"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cent",
+				"center"
+			],
+			[
+				"item",
+				"itemHalf"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"css",
+				"cssSrcName"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"lighten",
+				"lighten-2"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-",
+				"text-body"
+			],
+			[
+				"trans",
+				"trans-time"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bl",
+				"black-12"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"divider-",
+				"divider-h"
+			],
+			[
+				"mp",
+				"mp-clear"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"pa",
+				"padding-v"
+			],
+			[
+				"left",
+				"left-align"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"na",
+				"navbar-tabs-height"
+			],
+			[
+				"n",
+				"navbar-menu-height"
+			],
+			[
+				"mo",
+				"mobile-web-container-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"mg",
+				"mg-base"
+			],
+			[
+				"boo",
+				"bootstrapPath"
+			],
+			[
+				"imag",
+				"imageSrcPath"
+			],
+			[
+				"bower",
+				"bower"
+			],
+			[
+				"as",
+				"assets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.html",
+			"settings":
+			{
+				"buffer_size": 1851,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 2479,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"high",
+				"SublimeHighlight: copy to clipboard as RTF"
+			],
+			[
+				" pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/tugasPJW-ProfileKelompok",
+		"/E/xampp/htdocs/tugasPJW-ProfileKelompok/source",
+		"/E/xampp/htdocs/tugasPJW-ProfileKelompok/views"
+	],
+	"file_history":
+	[
+		"/E/xampp/htdocs/kulina-meals-catalogue/routes/index.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/Navbar.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/FAQ.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/CaraKerja.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/LandingContent2.js",
+		"/E/xampp/htdocs/tugasPJW-ProfileKelompok/package.json",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/App.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_MealWeek.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/main.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_MealDayEmpty.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/MealWeek.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/server/views/index.ejs",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/TestIframe.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/scripts/kulina.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/ChooseMeal.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/components/index.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/containers/index.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/server/server.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/containers/Chat/Chat.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/containers/Chat/Chat.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/server.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/routes.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/config.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/client.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue-2/src/components/Footer.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/dist/assets/landingpage/style.css",
+		"/E/xampp/htdocs/kulina-meals-catalogue/dist/assets/landingpage/bootstrap.min.css",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/AffixedDate.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_AffixedDate.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/_shame.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/KitchenDetails.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/LandingContent.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/MealDetails.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/SpecificDate.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/TryingInfinite.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/LandingPage.html",
+		"/E/xampp/htdocs/kulina-meals-catalogue/reducers/index.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/dist/assets/index.html",
+		"/E/xampp/htdocs/kulina-meals-catalogue/containers/LandingPage.js",
+		"/E/xampp/htdocs/tugasPJW-ProfileKelompok/gulpfile.js",
+		"/C/Users/Reza Arkan P/Documents/index.html",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/MealDay.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/MealDayKitchen.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/AffixedDateNav.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/AffixedDateNavSpecific.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_AffixedDateNavSpecific.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_MealCard.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/MealDayEmpty.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_AffixedDateNav.scss",
+		"/C/Users/Reza Arkan P/Documents/Home Chef & Catering Marketplace _ Delivery Makanan _ Kulina.html",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/Meal.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_IntercomButton.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_Meal.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/app.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/IntercomButton.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/Footer.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/package.json",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/Kitchen.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/MealCard.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/node_modules/react-materialize/lib/Navbar.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/webpack.server.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_Navbar.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/utils/_mixins.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/layout/_body.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_Footer.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/vendors/_materialdesignicons.scss",
+		"/F/Pictures/9/Kulina/analytics scheme.txt",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/utils/_helpers.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_Kitchen.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_Kitchen.scsss.sass",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/OtherMeals.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/components/_OtherMeals.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/utils/_variables.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/base/_globals.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/components/Day.js",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/utils/_meal-card-breakpoint.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/vendors/materialize/components/_navbar.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/src/styles/kulina/utils/_functions.scss",
+		"/E/xampp/htdocs/kulina-meals-catalogue/gulpfile.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/Checkout.js",
+		"/E/xampp/htdocs/kulina-mobile-web/server/views/index.ejs",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/GoogleLogin.js",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/base/_globals.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/App.js",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-facebook-login/src/facebook.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/PlanDetail.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/DatePicker.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/OrderSuccess.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/OrderPending.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/HowTo.js",
+		"/E/xampp/htdocs/kulina-mobile-web/routes/index.js",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/components/_building-blocks.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/pages/_ma-f-location.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/main.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/dist/main.css",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/pages/_ma-f-order-success.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/pages/_ma-f-calendar.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/components/_button.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/README.md",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/_shame.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/server/server.js",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-date-range/Calendar.js",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/layout/_navigation.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/app.js",
+		"/E/xampp/htdocs/kulina-mobile-web/package.json",
+		"/E/xampp/htdocs/kulina-mobile-web/.babelrc",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-google-login/google.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/LoginGoogle.js",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-google-login/google.jsx",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-google-login/google2.jsx",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-facebook-login/dist/facebook-login.js",
+		"/E/xampp/htdocs/kulina-mobile-web/src/styles/kulina/utils/_helpers.scss",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/crypto-browserify/helpers.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-facebook-login/dist/facebook-login.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-facebook-login/src/index.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-facebook-login/src/facebook.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-facebook-login/demo/index.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/Intro.js",
+		"/E/xampp/htdocs/kulina-mobile-web/containers/PilihLokasi.js",
+		"/E/xampp/htdocs/kulina-mobile-web/src/scripts/kulina.js",
+		"/E/xampp/htdocs/kulina-mobile-web/src/todo.md",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-sidebar/sidebar_content.js",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-sidebar/index.js",
+		"/E/xampp/htdocs/kulina-mobile-web/vendors/react-sidebar/sidebar.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-sidebar/src/sidebar.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-sidebar/example/src/sidebar_content.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-sidebar/example/src/index.js",
+		"/E/xampp/htdocs/kulina-mobile-web/node_modules/react-sidebar/dist-modules/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"support",
+			"HEAD",
+			"intercom",
+			"css",
+			".css",
+			"addAssets",
+			"remove",
+			"font-awe",
+			"id",
+			"style",
+			"intercom",
+			"scss",
+			".css",
+			"prevprop",
+			"intercom",
+			"kulina.id",
+			"./index_files/",
+			"./index_files/H",
+			"./index_files/",
+			"index_files",
+			"css",
+			"index_files",
+			"heigh",
+			"key",
+			"meals",
+			"7",
+			"choosemeal",
+			"intercom",
+			"7",
+			"intercomsetting",
+			"intercom",
+			"3001",
+			"aspect",
+			"cente",
+			"box-s",
+			"transition",
+			"meals",
+			"import",
+			"@include Card-3x{\n		width: $MealCard-total-width*3;\n	}",
+			"media",
+			"class",
+			"center-block",
+			"styles",
+			"material",
+			"gapi",
+			"timeout",
+			"imageFo",
+			"image",
+			"google",
+			"googlel",
+			"googlelo",
+			"component",
+			"head",
+			"googlelogin",
+			"facebookl",
+			"facebook",
+			"div id",
+			"div",
+			"onsignin",
+			"address_de",
+			"address",
+			"name=",
+			"input",
+			"a",
+			"styl",
+			"style",
+			"mobile",
+			"mobile_api",
+			"textbutt",
+			"form>",
+			"form",
+			"login",
+			"g-s",
+			"onthis",
+			"google-re",
+			"g-sign",
+			"g-s",
+			"g-",
+			"success",
+			"g-sign",
+			"onsign",
+			"submitchec",
+			"track",
+			".track",
+			"track",
+			"response",
+			"data-t",
+			"theme-d",
+			"g-sign",
+			"google",
+			"register",
+			"facebookl",
+			"regis",
+			"facebookL",
+			"facebook",
+			"register",
+			"login",
+			"facebookL",
+			"js-logincha",
+			"js-",
+			"js",
+			"atau",
+			"hidden",
+			"facebooklo",
+			"<Goo",
+			"render",
+			"ls.get",
+			"google",
+			"<goo",
+			"<google",
+			"google",
+			"faceb",
+			"superagent",
+			"get",
+			"respons",
+			"super",
+			"post",
+			"api",
+			"order",
+			"api",
+			"superagent",
+			"post",
+			"ls.",
+			"checkoutData",
+			"respons",
+			"ls.set",
+			"ls",
+			"stora"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../dist/assets/landingpage/",
+			"className=",
+			"className",
+			"no-padding-vertical",
+			"white-text",
+			"@extend %no-select",
+			"mp",
+			"Roboto",
+			"http://rezaarkan.com/kulina-kitchen-order-summary/assets/",
+			"85%",
+			"images/mobile/shipping_logo_sprites.png",
+			"images/mobile/icon_cat_24_150428.png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1778,
+								1778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/styles/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2479,
+						"regions":
+						{
+							"gutter_color_1040":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.95).png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1041":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.5).png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1089":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1090":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1102":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.5).png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1189":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1191":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1303":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_141":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1442":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1443":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1526":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1539":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1540":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1542":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1552":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1554":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1555":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1562":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1616":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1646":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1665":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1668":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1681":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1691":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1693":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1694":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1746":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1755":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1762":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1778":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1788":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1790":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1791":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1851":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										2097,
+										2125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1852":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1868":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_188":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1884":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1894":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1896":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1897":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1958":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1897,
+										1923
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1968":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1988":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_199":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1990":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1991":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1997":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2058":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1991,
+										2018
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2074":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										2097,
+										2125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_208":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2094":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										2097,
+										2125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2096":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										2097,
+										2125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2097":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										2097,
+										2125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2103":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										2097,
+										2125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_212":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(324, 70%, 45%).png",
+								"regions":
+								[
+									[
+										212,
+										239
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2268":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.7).png",
+								"regions":
+								[
+									[
+										2477,
+										2477
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2288":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.7).png",
+								"regions":
+								[
+									[
+										2477,
+										2477
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_229":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2294":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.65).png",
+								"regions":
+								[
+									[
+										2294,
+										2326
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_239":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2394":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.7).png",
+								"regions":
+								[
+									[
+										2416,
+										2448
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_241":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2415":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.7).png",
+								"regions":
+								[
+									[
+										2416,
+										2448
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2416":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(255,255,255,0.9).png",
+								"regions":
+								[
+									[
+										2416,
+										2448
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_273":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(324, 70%, 45%).png",
+								"regions":
+								[
+									[
+										212,
+										239
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_323":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_324":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_347":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(324, 70%, 45%).png",
+								"regions":
+								[
+									[
+										347,
+										388
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_364":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_367":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_376":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_379":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(324, 70%, 45%).png",
+								"regions":
+								[
+									[
+										347,
+										388
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_383":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_389":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(360, 65%, 45%).png",
+								"regions":
+								[
+									[
+										389,
+										430
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_408":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(324, 70%, 45%).png",
+								"regions":
+								[
+									[
+										347,
+										388
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_420":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(360, 65%, 45%).png",
+								"regions":
+								[
+									[
+										389,
+										430
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_421":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(360, 65%, 45%).png",
+								"regions":
+								[
+									[
+										389,
+										430
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_430":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_431":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 36, 80%, 45%).png",
+								"regions":
+								[
+									[
+										431,
+										472
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_450":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(360, 65%, 45%).png",
+								"regions":
+								[
+									[
+										389,
+										430
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_462":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 36, 80%, 45%).png",
+								"regions":
+								[
+									[
+										431,
+										472
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_463":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 36, 80%, 45%).png",
+								"regions":
+								[
+									[
+										431,
+										472
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_473":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 72, 75%, 35%).png",
+								"regions":
+								[
+									[
+										473,
+										514
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_492":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 36, 80%, 45%).png",
+								"regions":
+								[
+									[
+										431,
+										472
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_504":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 72, 75%, 35%).png",
+								"regions":
+								[
+									[
+										473,
+										514
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_505":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 72, 75%, 35%).png",
+								"regions":
+								[
+									[
+										473,
+										514
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_515":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(108, 65%, 35%).png",
+								"regions":
+								[
+									[
+										515,
+										556
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_534":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl( 72, 75%, 35%).png",
+								"regions":
+								[
+									[
+										473,
+										514
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_546":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(108, 65%, 35%).png",
+								"regions":
+								[
+									[
+										515,
+										556
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_547":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(108, 65%, 35%).png",
+								"regions":
+								[
+									[
+										515,
+										556
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_557":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(144, 75%, 35%).png",
+								"regions":
+								[
+									[
+										557,
+										598
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_573":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1362,
+										1364
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_576":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(108, 65%, 35%).png",
+								"regions":
+								[
+									[
+										515,
+										556
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_577":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1362,
+										1364
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_588":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(144, 75%, 35%).png",
+								"regions":
+								[
+									[
+										557,
+										598
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_589":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(144, 75%, 35%).png",
+								"regions":
+								[
+									[
+										557,
+										598
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_594":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1362,
+										1364
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_599":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(180, 75%, 35%).png",
+								"regions":
+								[
+									[
+										599,
+										640
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_618":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(144, 75%, 35%).png",
+								"regions":
+								[
+									[
+										557,
+										598
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_63":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_630":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(180, 75%, 35%).png",
+								"regions":
+								[
+									[
+										599,
+										640
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_631":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(180, 75%, 35%).png",
+								"regions":
+								[
+									[
+										599,
+										640
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_641":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(216, 60%, 45%).png",
+								"regions":
+								[
+									[
+										641,
+										682
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_658":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_660":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(180, 75%, 35%).png",
+								"regions":
+								[
+									[
+										599,
+										640
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_672":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(216, 60%, 45%).png",
+								"regions":
+								[
+									[
+										641,
+										682
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_673":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(216, 60%, 45%).png",
+								"regions":
+								[
+									[
+										641,
+										682
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_677":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_681":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_683":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(252, 65%, 50%).png",
+								"regions":
+								[
+									[
+										683,
+										724
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_698":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_702":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(216, 60%, 45%).png",
+								"regions":
+								[
+									[
+										641,
+										682
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_714":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(252, 65%, 50%).png",
+								"regions":
+								[
+									[
+										683,
+										724
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_715":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(252, 65%, 50%).png",
+								"regions":
+								[
+									[
+										683,
+										724
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_717":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_725":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(288, 60%, 40%).png",
+								"regions":
+								[
+									[
+										725,
+										766
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_731":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_744":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(252, 65%, 50%).png",
+								"regions":
+								[
+									[
+										683,
+										724
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_746":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_755":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_756":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(288, 60%, 40%).png",
+								"regions":
+								[
+									[
+										725,
+										766
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_757":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(288, 60%, 40%).png",
+								"regions":
+								[
+									[
+										725,
+										766
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_774":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_778":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_786":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/hsl(288, 60%, 40%).png",
+								"regions":
+								[
+									[
+										725,
+										766
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_805":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_807":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_842":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/black.png",
+								"regions":
+								[
+									[
+										842,
+										912
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_854":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.26).png",
+								"regions":
+								[
+									[
+										1555,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_879":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_880":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1040,
+										1082
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_884":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_885":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_886":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_90":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_903":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										842,
+										912
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_958":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_983":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.54).png",
+								"regions":
+								[
+									[
+										1791,
+										1817
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_993":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/rgba(0,0,0,0.87).png",
+								"regions":
+								[
+									[
+										1694,
+										1720
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tugasPJW-ProfileKelompok.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.",
+				"source\\styles\\main.scss"
+			],
+			[
+				"navbar",
+				"components\\Navbar.js"
+			],
+			[
+				"index.",
+				"routes\\index.js"
+			],
+			[
+				"index.js",
+				"routes\\index.js"
+			],
+			[
+				"navb",
+				"components\\Navbar.js"
+			],
+			[
+				"app.js",
+				"containers\\App.js"
+			],
+			[
+				"mealweek",
+				"src\\styles\\kulina\\components\\_MealWeek.scss"
+			],
+			[
+				"main",
+				"src\\styles\\main.scss"
+			],
+			[
+				"mealday.sc",
+				"src\\styles\\kulina\\components\\_MealDayEmpty.scss"
+			],
+			[
+				"main.sc",
+				"src\\styles\\main.scss"
+			],
+			[
+				"index.ejs",
+				"server\\views\\index.ejs"
+			],
+			[
+				"app.",
+				"containers\\App.js"
+			],
+			[
+				"ser",
+				"server\\server.js"
+			],
+			[
+				"kul",
+				"src\\scripts\\kulina.js"
+			],
+			[
+				"style",
+				"dist\\assets\\landingpage\\style.css"
+			],
+			[
+				"bootrs",
+				"dist\\assets\\landingpage\\bootstrap.min.css"
+			],
+			[
+				"affi",
+				"components\\AffixedDate.js"
+			],
+			[
+				"kulina",
+				"src\\scripts\\kulina.js"
+			],
+			[
+				"affixed",
+				"src\\styles\\kulina\\components\\_AffixedDate.scss"
+			],
+			[
+				"affix",
+				"components\\AffixedDate.js"
+			],
+			[
+				"shame",
+				"src\\styles\\kulina\\_shame.scss"
+			],
+			[
+				"choosem",
+				"containers\\ChooseMeal.js"
+			],
+			[
+				"index",
+				"routes\\index.js"
+			],
+			[
+				"lan",
+				"containers\\LandingPage.html"
+			],
+			[
+				"landing",
+				"containers\\LandingPage.html"
+			],
+			[
+				"mealday",
+				"components\\MealDay.js"
+			],
+			[
+				"mealcar",
+				"src\\styles\\kulina\\components\\_MealCard.scss"
+			],
+			[
+				"affixe",
+				"src\\styles\\kulina\\components\\_AffixedDateNav.scss"
+			],
+			[
+				"mealwee",
+				"components\\MealWeek.js"
+			],
+			[
+				"choose",
+				"containers\\ChooseMeal.js"
+			],
+			[
+				"mealdayem",
+				"components\\MealDayEmpty.js"
+			],
+			[
+				"mealde",
+				"containers\\MealDetails.js"
+			],
+			[
+				"mealda",
+				"components\\MealDay.js"
+			],
+			[
+				"meal.js",
+				"components\\Meal.js"
+			],
+			[
+				"mealcard",
+				"src\\styles\\kulina\\components\\_MealCard.scss"
+			],
+			[
+				"kitchende",
+				"containers\\KitchenDetails.js"
+			],
+			[
+				"kulin",
+				"src\\scripts\\kulina.js"
+			],
+			[
+				"meladay",
+				"components\\MealDay.js"
+			],
+			[
+				"intercom",
+				"src\\styles\\kulina\\components\\_IntercomButton.scss"
+			],
+			[
+				"meal",
+				"src\\styles\\kulina\\components\\_Meal.scss"
+			],
+			[
+				"app",
+				"containers\\App.js"
+			],
+			[
+				"choo",
+				"containers\\ChooseMeal.js"
+			],
+			[
+				"footer",
+				"components\\Footer.js"
+			],
+			[
+				"index.ej",
+				"server\\views\\index.ejs"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"meal.j",
+				"components\\Meal.js"
+			],
+			[
+				"meal.",
+				"components\\Meal.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"server",
+				"server\\server.js"
+			],
+			[
+				"mixin",
+				"src\\styles\\kulina\\utils\\_mixins.scss"
+			],
+			[
+				"mealca",
+				"components\\MealCard.js"
+			],
+			[
+				"body",
+				"src\\styles\\kulina\\layout\\_body.scss"
+			],
+			[
+				"navba",
+				"src\\styles\\kulina\\components\\_Navbar.scss"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"mater",
+				"src\\styles\\kulina\\vendors\\_materialdesignicons.scss"
+			],
+			[
+				"material",
+				"src\\styles\\kulina\\vendors\\_materialdesignicons.scss"
+			],
+			[
+				"helpers",
+				"src\\styles\\kulina\\utils\\_helpers.scss"
+			],
+			[
+				"nav",
+				"src\\styles\\kulina\\components\\_Navbar.scss"
+			],
+			[
+				"kitchend",
+				"containers\\KitchenDetails.js"
+			],
+			[
+				"kitchen",
+				"src\\styles\\kulina\\components\\_Kitchen.scss"
+			],
+			[
+				"kitc",
+				"src\\styles\\kulina\\components\\_Kitchen.scsss.sass"
+			],
+			[
+				"meal.sc",
+				"src\\styles\\kulina\\components\\_Meal.scss"
+			],
+			[
+				"mealwe",
+				"components\\MealWeek.js"
+			],
+			[
+				"othe",
+				"src\\styles\\kulina\\components\\_OtherMeals.scss"
+			],
+			[
+				"other",
+				"components\\OtherMeals.js"
+			],
+			[
+				"mealdet",
+				"containers\\MealDetails.js"
+			],
+			[
+				"vari",
+				"src\\styles\\kulina\\utils\\_variables.scss"
+			],
+			[
+				"aff",
+				"src\\styles\\kulina\\components\\_AffixedDateNav.scss"
+			],
+			[
+				"globals",
+				"src\\styles\\kulina\\base\\_globals.scss"
+			],
+			[
+				"glo",
+				"src\\styles\\kulina\\base\\_globals.scss"
+			],
+			[
+				"mixins",
+				"src\\styles\\kulina\\utils\\_mixins.scss"
+			],
+			[
+				"day",
+				"components\\Day.js"
+			],
+			[
+				"helper",
+				"src\\styles\\kulina\\utils\\_helpers.scss"
+			],
+			[
+				"varia",
+				"src\\styles\\kulina\\utils\\_variables.scss"
+			],
+			[
+				"variables",
+				"src\\styles\\kulina\\utils\\_variables.scss"
+			],
+			[
+				"variab",
+				"src\\styles\\kulina\\utils\\_variables.scss"
+			],
+			[
+				"mixins.",
+				"src\\styles\\kulina\\utils\\_mixins.scss"
+			],
+			[
+				"functions.s",
+				"src\\styles\\kulina\\utils\\_functions.scss"
+			],
+			[
+				"variables.scs",
+				"src\\styles\\kulina\\utils\\_variables.scss"
+			],
+			[
+				"main.s",
+				"src\\styles\\main.scss"
+			],
+			[
+				"base.scss",
+				"src\\styles\\kulina\\base\\_globals.scss"
+			],
+			[
+				"google",
+				"containers\\GoogleLogin.js"
+			],
+			[
+				"check",
+				"containers\\Checkout.js"
+			],
+			[
+				"buildin",
+				"src\\styles\\kulina\\components\\_building-blocks.scss"
+			],
+			[
+				"main.scs",
+				"src\\styles\\main.scss"
+			],
+			[
+				"butt",
+				"src\\styles\\kulina\\components\\_button.scss"
+			],
+			[
+				"bulding",
+				"src\\styles\\kulina\\components\\_building-blocks.scss"
+			],
+			[
+				"sha",
+				"src\\styles\\kulina\\_shame.scss"
+			],
+			[
+				"chec",
+				"containers\\Checkout.js"
+			],
+			[
+				"serve",
+				"server\\server.js"
+			],
+			[
+				"cehck",
+				"containers\\Checkout.js"
+			],
+			[
+				"detail",
+				"containers\\PlanDetail.js"
+			],
+			[
+				"datepi",
+				"containers\\DatePicker.js"
+			],
+			[
+				"calendar",
+				"vendors\\react-date-range\\Calendar.js"
+			],
+			[
+				"app.s",
+				"containers\\App.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"navi",
+				"src\\styles\\kulina\\layout\\_navigation.scss"
+			],
+			[
+				"plan",
+				"containers\\PlanDetail.js"
+			],
+			[
+				"helpe",
+				"src\\styles\\kulina\\utils\\_helpers.scss"
+			],
+			[
+				"helpers.sc",
+				"src\\styles\\kulina\\utils\\_helpers.scss"
+			],
+			[
+				"hel",
+				"node_modules\\crypto-browserify\\helpers.js"
+			],
+			[
+				"button",
+				"src\\styles\\kulina\\components\\_button.scss"
+			],
+			[
+				"butto",
+				"src\\styles\\kulina\\components\\_button.scss"
+			],
+			[
+				"pili",
+				"containers\\PilihLokasi.js"
+			],
+			[
+				"intro",
+				"containers\\Intro.js"
+			],
+			[
+				"todo",
+				"src\\todo.md"
+			],
+			[
+				"index.e",
+				"server\\views\\index.ejs"
+			],
+			[
+				"pil",
+				"containers\\PilihLokasi.js"
+			],
+			[
+				"pl",
+				"containers\\PlanDetail.js"
+			],
+			[
+				"building",
+				"src\\styles\\kulina\\components\\_building-blocks.scss"
+			],
+			[
+				"datepic",
+				"containers\\DatePicker.js"
+			],
+			[
+				"buttons",
+				"src\\styles\\kulina\\components\\_button.scss"
+			],
+			[
+				"naviga",
+				"src\\styles\\kulina\\layout\\_navigation.scss"
+			],
+			[
+				"materialdes",
+				"src\\styles\\kulina\\vendors\\_materialdesignicons.scss"
+			],
+			[
+				"kulina.js",
+				"src\\scripts\\kulina.js"
+			],
+			[
+				"header.sc",
+				"src\\styles\\kulina\\components\\_header.scss"
+			],
+			[
+				"pilih",
+				"containers\\PilihLokasi.js"
+			],
+			[
+				"mixi",
+				"src\\styles\\kulina\\utils\\_mixins.scss"
+			],
+			[
+				"modals",
+				"src\\styles\\kulina\\components\\_modals.scss"
+			],
+			[
+				"materialize",
+				"src\\scripts\\1 - materialize.js"
+			],
+			[
+				"calendar.sc",
+				"src\\styles\\kulina\\components\\_calendar.scss"
+			],
+			[
+				"ma-",
+				"src\\styles\\kulina\\pages\\_ma-f-browse.scss"
+			],
+			[
+				"helpers.scs",
+				"src\\styles\\kulina\\utils\\_helpers.scss"
+			],
+			[
+				"body.sc",
+				"src\\styles\\kulina\\layout\\_body.scss"
+			],
+			[
+				"buildib",
+				"src\\styles\\kulina\\components\\_building-blocks.scss"
+			],
+			[
+				"kulina.",
+				"src\\scripts\\kulina.js"
+			],
+			[
+				"main.cs",
+				"dist\\main.css"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\Reza Projects\\kulina-meals-catalogue.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -195,11 +195,15 @@ ul, li {
 		padding-bottom: 12px;
 		padding-left: 12px;
 
+		margin-bottom: 4px;
+
 		background: none;
 
 		border-radius: 3px;
 
 		transition: 0.3s;
+
+		cursor: pointer;
 
 		a{
 			color: rgba(255,255,255,0.5);

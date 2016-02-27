@@ -7,13 +7,13 @@ var tugasPJWProfileKelompok = {
 
 	navTextClickListener: function() {
 		$('.js-navText').click(function() {
-			var destId = $(this).attr("data-target");
+			var destId = $(this).children('a').attr("data-target");
 
 			$('.card').hide();
 			$(destId).show();
 
 			$('li').removeClass('active');
-			$(this).parent('li').addClass('active');
+			$(this).addClass('active');
 		});
 	},
 

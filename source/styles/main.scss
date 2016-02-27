@@ -5,6 +5,18 @@ html, body{
 	font-family: Roboto, Helvetica, arial, sans;
 }
 
+ul, li {
+	margin: 0;
+	padding: 0;
+
+	list-style: none;
+}
+
+.container{
+	text-align: center;
+	margin-top: 5%;
+}
+
 .wrapper{
 	position: fixed;
 	top: 0;
@@ -37,18 +49,20 @@ html, body{
 
 @supports (background-blend-mode: overlay) {
     .gradient-background {
-        background-image: linear-gradient(90deg, black 5%, white 95%);
+        background-image: linear-gradient(90deg, grey 15%, white 85%);
         background-blend-mode: overlay;
     }
 }
 
 .card{
+	display: inline-block;
+
 	position: relative;
 
 	width: 25%;
+	min-height: 495px;
 
 	margin: 0 auto;
-	margin-top: 5%;
 
 	background-color: rgba(255,255,255,0.95);
 
@@ -141,6 +155,7 @@ html, body{
 	position: relative;
 
 	margin-top: 32px;
+	margin-bottom: 32px;
 
 	text-align: center;
 
@@ -157,5 +172,78 @@ html, body{
 
 			transition: 0.3s;
 		}
+	}
+}
+
+.nav-text{
+	display: inline-block;
+
+	position: relative;
+	vertical-align: top;
+
+	width: 25%;
+
+	margin-left: 24px;
+
+	padding-top: 16px;
+
+	text-align: left;
+	color: white;
+
+	li{
+		padding-top: 12px;
+		padding-bottom: 12px;
+		padding-left: 12px;
+
+		background: none;
+
+		border-radius: 3px;
+
+		transition: 0.3s;
+
+		a{
+			color: rgba(255,255,255,0.5);
+			text-decoration: none;
+			cursor: pointer;
+
+			transition: 0.3s;
+		}
+
+		&:hover{
+			background-image: linear-gradient(90deg, rgba(255,255,255,0.25) 25%, rgba(255,255,255,0) 75%);
+        	background-blend-mode: overlay;
+
+        	transition: 0.3s;
+
+        	a{
+				color: rgba(255,255,255,0.9);
+				text-decoration: none;
+				cursor: pointer;
+
+				transition: 0.3s;
+			}
+		}
+
+		&.active{
+			background-image: linear-gradient(90deg, rgba(255,255,255,0.25) 25%, rgba(255,255,255,0) 75%);
+        	background-blend-mode: overlay;
+
+        	transition: 0.3s;
+
+        	a{
+				color: rgba(255,255,255,0.9);
+				text-decoration: none;
+				cursor: pointer;
+			}
+		}
+	}
+
+	.name{
+		font-size: 16px;
+	}
+
+	.nim{
+		margin-top: 4px;
+		font-size: 12px;
 	}
 }
